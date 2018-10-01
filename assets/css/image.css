@@ -1,0 +1,19 @@
+#upload {
+	background:transparent; 
+	cursor:pointer;	
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+}
+
+#picture{
+    display:none;
+}
+
+#upload img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+	z-index:99999;
+	border-radius:2px;
+}
